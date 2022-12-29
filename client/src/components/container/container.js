@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Board from '../board/board.js';
-import './container.css';
+import './containerstyle.css'
 
 export default class container extends Component {
     constructor(props){
